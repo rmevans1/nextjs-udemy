@@ -1,4 +1,4 @@
-export default function Search(){
+export default function Search() {
     return (
 
         <main className="bg-gray-100 min-h-screen w-screen">

@@ -1,4 +1,3 @@
-import Link from "next/link";
 import NavBar from "@/components/NavBar";
 import Header from "@/pages/restaurant/components/Header";
 import RestaurantNav from "@/pages/restaurant/components/RestaurantNav";

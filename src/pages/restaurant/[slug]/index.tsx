@@ -1,4 +1,3 @@
-import NavBar from "@/components/NavBar";
 import Header from "@/pages/restaurant/components/Header";
 import RestaurantNav from "@/pages/restaurant/components/RestaurantNav";
 import Title from "@/pages/restaurant/components/Title";

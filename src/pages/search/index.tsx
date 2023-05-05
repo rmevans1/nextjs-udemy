@@ -1,4 +1,3 @@
-import NavBar from "@/components/NavBar";
 import Header from "@/pages/search/components/Header";
 import SideBar from "@/pages/search/components/SideBar";
 import RestaurantCard from "@/pages/search/components/RestaurantCard";

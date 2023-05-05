@@ -1,5 +1,3 @@
-import Link from "next/link";
-import NavBar from "@/components/NavBar";
 import Header from "@/pages/reserve/components/Header";
 import Form from "@/pages/reserve/components/Form";
 
